@@ -2,9 +2,9 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/',
   title: "My Awesome Project",
   description: "A VitePress Site",
-  base: '/Baz-Chen.github.io/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
