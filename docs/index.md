@@ -7,7 +7,7 @@ hero:
   text: "Stay humble, move forward"
   tagline: /热血青年/拿来主义/持续学习/
   image:
-    src: /docs/public/astronaut-LQ_BQU63.png
+    src: /astronaut.png
     alt: 背景图
   actions:
     - theme: brand
