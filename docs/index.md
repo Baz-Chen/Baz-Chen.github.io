@@ -3,16 +3,16 @@
 layout: home
 
 hero:
-  name: "我的个人项目"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "陈同学"
+  text: "Stay humble, move forward"
+  tagline: /热血青年/拿来主义/持续学习/
+  image:
+    src: /public/astronaut-LQ_BQU63.png
+    alt: 背景图
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Utils
+      link: /markdown/javascript/utils
 
 features:
   - title: Feature A
@@ -22,4 +22,11 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
+<script setup>
 
+import home from './components/home.vue';
+
+</script>
+
+
+<home />

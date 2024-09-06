@@ -34,7 +34,7 @@ import {
   version,
   watch,
   watchEffect
-} from "./chunk-X5TPENK6.js";
+} from "./chunk-LI5XILZ3.js";
 
 // node_modules/.pnpm/vitepress@1.3.4_@algolia+client-search@4.24.0_postcss@8.4.45_search-insights@2.17.1/node_modules/vitepress/lib/vue-demi.mjs
 var isVue2 = false;
@@ -56,7 +56,7 @@ function del(target, key) {
   delete target[key];
 }
 
-// node_modules/.pnpm/@vueuse+shared@11.0.3_vue@3.5.2/node_modules/@vueuse/shared/index.mjs
+// node_modules/.pnpm/@vueuse+shared@11.0.3_vue@3.5.3/node_modules/@vueuse/shared/index.mjs
 function computedEager(fn, options) {
   var _a;
   const result = shallowRef();
@@ -1559,7 +1559,7 @@ function whenever(source, cb, options) {
   return stop;
 }
 
-// node_modules/.pnpm/@vueuse+core@11.0.3_vue@3.5.2/node_modules/@vueuse/core/index.mjs
+// node_modules/.pnpm/@vueuse+core@11.0.3_vue@3.5.3/node_modules/@vueuse/core/index.mjs
 function computedAsync(evaluationCallback, initialState, optionsOrRef) {
   let options;
   if (isRef(optionsOrRef)) {
@@ -9262,4 +9262,4 @@ vitepress/lib/vue-demi.mjs:
    * @license MIT
    *)
 */
-//# sourceMappingURL=chunk-VOJ6KKA3.js.map
+//# sourceMappingURL=chunk-7WRHNZFN.js.map
